@@ -1,7 +1,5 @@
 # Saluton!
 
-Hi, my GitHub account is now only for redirecting, no more code will be put here.
-
 [SourceHut](https://sr.ht/~gbx)
 
 [NotABug](https://notabug.org/gbx)
