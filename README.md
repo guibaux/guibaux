@@ -1,6 +1,5 @@
 # Saluton!
-## [SourceHut](https://sr.ht/~gbx)
-## [NotABug](https://notabug.org/gbx)
+## [SourceHut](https://sr.ht/~gbx) [NotABug](https://notabug.org/gbx)
 
 Now learning
 
